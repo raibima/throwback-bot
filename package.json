@@ -1,0 +1,17 @@
+{
+  "name": "throwback-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.7.28",
+    "line-messaging": "^1.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test"
+  },
+  "engines": {
+    "node": "6.9.1"
+  }
+}
